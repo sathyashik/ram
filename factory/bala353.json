@@ -1,0 +1,9 @@
+{
+	"name": "bala353",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e2e6f1a-613e-4795-b955-466220009a22",
+		"tenantId": "a2515785-1610-43f3-99bb-cb2cf1b5307b"
+	}
+}
